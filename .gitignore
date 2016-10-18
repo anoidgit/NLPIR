@@ -3,6 +3,8 @@
 #################
 *.err
 *.log
+!/protege-CN/Protege-5.0.0-beta-22-SNAPSHOT/bin
+
 
 #################
 ## Android
@@ -20,7 +22,7 @@ android/gen/
 *.pydevproject
 .project
 .metadata
-bin/
+
 tmp/
 *.tmp
 *.bak
@@ -61,7 +63,7 @@ local.properties
 [Rr]elease/
 x64/
 build/
-[Bb]in/
+
 [Oo]bj/
 
 # MSTest test Results
